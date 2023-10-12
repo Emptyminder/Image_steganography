@@ -23,6 +23,6 @@ Decoding
 --------
 
 ```bash
-python <file>.py -decode <file_path>
+python <file>.py -decode <file_path-hide.png>
 ```
 > *Now the `hide.png` file will be decode and the output will be display on the terminal*
